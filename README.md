@@ -18,6 +18,6 @@ Any online submissions/uploads of this code and project module usages of this co
 Also please restrain from linking to this code, since it is not mature code and shall not be only used as a referece and starting point for self-studies in the field of Machine Learning. Also again this is my take on these algorithmns I do not claim any of those implementations to be 100% accurate since i myself am only a student and new to this field. <br>
 
 
-I strongly recommend checking out the "ML - Course_links.txt" file it contains heaps of useful rescources to dive deeper into the topic of machine learning. 
-I hope you can learn new things and gain some knowledge from all this material.
-Have fun with this repositories content :)
+I strongly recommend checking out the "ML - Course_links.txt" file it contains heaps of useful rescources to dive deeper into the topic of machine learning. <br>
+I hope you can learn new things and gain some knowledge from all this material. <br>
+Have fun with this repositories content :) 
