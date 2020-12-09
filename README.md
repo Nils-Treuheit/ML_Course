@@ -1,4 +1,4 @@
-# ML_Course
+# Machine Learning Course
 In this repository you find my own naive implementaiions of machine learning algorithmns with low-level python. <br>
 This Code is written by myself - Nils Treuheit - and shall not be copied or deployed in someones own projects!!! <br>
 Please take note that this code is not mature. It lacks excessive testing optimization and so on. <br>
