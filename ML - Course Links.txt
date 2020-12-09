@@ -1,0 +1,25 @@
+Youtube:
+--------
+Beyond RTX - https://www.youtube.com/playlist?list=PL7VAyYJd6vqvYNTU0jmF9z42bQ4KLMpxf
+AI with Rob Miles - https://www.youtube.com/playlist?list=PLzH6n4zXuckquVnQ0KlMDxyT5YE-sA8Ps
+AI Podcast with Lex Fridman(MIT) - https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+Intro to DL - https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+DL with Lex Fridman(MIT) - https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
+Neural Nets Explained by 3Blue1Brown - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+Neural Nets and Deep Learning - https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
+Convolutional Neural Networks(Standford) - https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+Self-Driving Cars with Lex Fridman(MIT) - https://www.youtube.com/playlist?list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq
+ML Course by Tom Michell - https://www.youtube.com/playlist?list=PL7VAyYJd6vqt4vIMG1KRZhwjUyaHDhGvc
+Machine Learning in a Nutshell - https://www.youtube.com/playlist?list=PL7VAyYJd6vqvGVcEKhpVA24kWNzU5ct6Y
+ML Prog. from Scratch - https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
+Machine Learning Course(Stanford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
+Machine Learning Course(MIT) - https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux
+Intro to Comput. Thinking and DataSci(MIT) - https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
+Data Science and ML[Math/CompSci](MIT) - https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+Data Analysis with Dr Mike Pound - https://www.youtube.com/playlist?list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba
+
+
+
+Other:
+------
+Machine Learning Course by Tom Mitchel - http://www.cs.cmu.edu/%7Etom/10701_sp11/lectures.shtml
